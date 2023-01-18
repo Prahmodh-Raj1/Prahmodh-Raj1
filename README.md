@@ -10,7 +10,7 @@
 
 - 🗣️ Active member of Facebook Developer Circles, MadrasDAO and Web3Chennai BuildHub 
 
-- 💬 Ask me about **React Solidity Hardhat**
+- 💬 Ask me about **React Solidity NodeJS**
 
 - 👯 I’m looking to collaborate on building Decentralized Apps and DeFi Protocols
  
