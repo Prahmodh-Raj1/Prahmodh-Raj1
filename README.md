@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning **Full Stack Web3 Dev**
 
-- 🗣️ Active member of Facebook Developer Circles, MadrasDAO and Web3Chennai BuildHub 
+- 🗣️ Active member of Facebook Developer Circles, MadrasDAO and Web3Chennai BuidlHub 
 
 - 💬 Ask me about **React Solidity NodeJS**
 
@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 
 
-## Things I code with:
+## Tools/Technologies I code with:
 <p>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
