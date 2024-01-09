@@ -6,16 +6,14 @@
 
 
 
-- 🔭 I’m currently learning **Full Stack Web3 Dev**
+- 🔭 I’m on track to learn more about Computer Vision, Large Language Models and DevOps
 
 - 🗣️ Active member of Facebook Developer Circles, MadrasDAO and Web3Chennai BuidlHub 
 
-- 💬 Ask me about **React Solidity NodeJS**
+- 💬 Ask me about **React NodeJS Python**
 
 - 👯 I’m looking to collaborate on building Decentralized Apps and DeFi Protocols
  
-- 📫 How to reach me **pramodhr181@gmail.com**
-
 - 😄 Pronouns: He/Him
 
 
