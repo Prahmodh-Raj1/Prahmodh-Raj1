@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pramodhr181@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WY9LEt7a5Ut0Q249syXEC53jdWBgc1zx/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WY9LEt7a5Ut0Q249syXEC53jdWBgc1zx/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
