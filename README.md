@@ -7,13 +7,11 @@
 
 - 👯 I’m looking to collaborate on projects involving **Computer Vision, Large Language Models and Data Science**
 
-- 💬 Ask me about **React Tensorflow Python**
+- 💬 Ask me about **ReactJS Tensorflow Python**
 
 - 🗣️ Active member of Facebook Developer Circles, MadrasDAO, and Web3Chennai BuidlHub  
 
-- 📫 How to reach me **pramodhr181@gmail.com**
-
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WY9LEt7a5Ut0Q249syXEC53jdWBgc1zx/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1WY9LEt7a5Ut0Q249syXEC53jdWBgc1zx/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
