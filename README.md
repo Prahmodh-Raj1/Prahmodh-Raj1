@@ -13,11 +13,10 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1WY9LEt7a5Ut0Q249syXEC53jdWBgc1zx/view?usp=sharing)
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me through:</h2>
 <p align="left">
 <a href="https://twitter.com/prahmodh_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prahmodh_raj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prahmodh-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prahmodh-r" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/KingPRaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kingpraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Prahmodh_Raj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prahmodh_raj1" height="30" width="40" /></a>
 </p>
 
