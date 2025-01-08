@@ -31,6 +31,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=prahmodh-raj1&show_icons=true&locale=en&theme=blue&rank_icon=github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahmodh-raj1&" alt="prahmodh-raj1" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahmodh-raj1&label=Profile%20views&color=0e75b6&style=flat" alt="prahmodh-raj1" /> </p>
