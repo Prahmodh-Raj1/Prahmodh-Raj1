@@ -3,7 +3,7 @@
 
 <br></br>
 
-- 🌱 I’m currently learning **Computer Vision, LLMs, MLOps**
+- 🌱 I’m currently learning **Computer Vision, Agentic RAGs, MLOps**
 
 - 👯 I’m looking to collaborate on projects involving **Computer Vision, Large Language Models and Data Science**
 
